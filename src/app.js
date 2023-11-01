@@ -38,7 +38,7 @@ app.get('/bantuan', (req, res) => {
      pertanyaan2: 'B. Apa itu API?',
      jawaban2: 'API adalah singkatan dari Application Programming Interface. Ini adalah antarmuka yang memungkinkan dua atau lebih program komputer untuk berkomunikasi satu sama lain. ',
      pertanyaan3: 'C. API apa yang digunakan dalam aplikasi ini?',
-     jawaban3: 'API yang digunakan dalam aplikasi ini yaitu mapbox, weatherstack, dan mediastack',
+     jawaban3: 'API yang digunakan dalam aplikasi ini yaitu weatherstack dan mediastack',
      pertanyaan4: 'D. Salah satu pola arsitektur API adalah REST (Representational State Transfer)',
      jawaban4: 'REST API adalah singkatan dari Representational State Transfer Application Programming Interface. REST sendiri merupakan standar arsitektur bebbasis web yang menggunakan protokol HTTP ketika ingin berkomunikasi data. Sementara, API adalah protokol yang bisa digunakan antar aplikasi untuk saling berkomunikasi satu dengan yang lainnya. Fungsinya ini bertukar data antar aplikasi meski tidak terhubung secara langsung.',
      })
